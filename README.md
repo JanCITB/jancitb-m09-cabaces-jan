@@ -42,7 +42,7 @@ Alternativament, si el contenidor té **novnc** instal·lat, pots accedir via na
 
 La imatge està disponible a DockerHub en el següent enllaç:
 
-👉 [https://hub.docker.com/r/nom_usuari/nom_imatge](https://hub.docker.com/repository/docker/jancitb/m09-cabaces-jan/general)
+👉 [Mi docker hub](https://hub.docker.com/repository/docker/jancitb/m09-cabaces-jan/general)
 
 Per a descarregar-la directament:
 
